@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+        "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+
+<dict>
+<key>DTSTART</key><string>20160514T210000Z</string>
+<key>DTEND</key><string>20160514T230000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Santa Clara - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Santa Clara - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533589.20160514</string>
+<key>LOCATION</key><string>Santa Clara  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160514T190000Z</string>
+<key>DTEND</key><string>20160514T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Santa Clara - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Santa Clara - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533590.20160514</string>
+<key>LOCATION</key><string>Santa Clara  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160514T000000Z</string>
+<key>DTEND</key><string>20160514T020000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Santa Clara - 5:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Santa Clara - 5:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533979.20160514</string>
+<key>LOCATION</key><string>Santa Clara  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160501T190000Z</string>
+<key>DTEND</key><string>20160501T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Loyola Marymount - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Loyola Marymount - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533978.20160501</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160430T210000Z</string>
+<key>DTEND</key><string>20160430T230000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Loyola Marymount - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Loyola Marymount - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533587.20160430</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160430T190000Z</string>
+<key>DTEND</key><string>20160430T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Loyola Marymount - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Loyola Marymount - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533588.20160430</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160423T060000Z</string>
+<key>DTEND</key><string>20160424T055900Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. BYU - CONFIRM TIME</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. BYU</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533586.20160423</string>
+<key>LOCATION</key><string>Provo  Utah</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160423T060000Z</string>
+<key>DTEND</key><string>20160424T055900Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. BYU - CONFIRM TIME</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. BYU</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533585.20160423</string>
+<key>LOCATION</key><string>Provo  Utah</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160422T060000Z</string>
+<key>DTEND</key><string>20160423T055900Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. BYU - CONFIRM TIME</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. BYU</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533977.20160422</string>
+<key>LOCATION</key><string>Provo  Utah</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160417T190000Z</string>
+<key>DTEND</key><string>20160417T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Pacific - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Pacific - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533876.20160417</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160416T210000Z</string>
+<key>DTEND</key><string>20160416T230000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Pacific - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Pacific - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533976.20160416</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160416T190000Z</string>
+<key>DTEND</key><string>20160416T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Pacific - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Pacific - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533875.20160416</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160410T190000Z</string>
+<key>DTEND</key><string>20160410T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. San Diego - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. San Diego - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533584.20160410</string>
+<key>LOCATION</key><string>San Diego  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160409T210000Z</string>
+<key>DTEND</key><string>20160409T230000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. San Diego - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. San Diego - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533975.20160409</string>
+<key>LOCATION</key><string>San Diego  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160409T190000Z</string>
+<key>DTEND</key><string>20160409T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. San Diego - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. San Diego - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533583.20160409</string>
+<key>LOCATION</key><string>San Diego  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160406T230000Z</string>
+<key>DTEND</key><string>20160407T010000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. California - 4:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. California - 4:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533007.20160406</string>
+<key>LOCATION</key><string>Berkeley  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160324T220000Z</string>
+<key>DTEND</key><string>20160325T000000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Iona - 3:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Iona - 3:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533006.20160324</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160324T200000Z</string>
+<key>DTEND</key><string>20160324T220000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Iona - 1:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Iona - 1:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537137.20160324</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160322T210000Z</string>
+<key>DTEND</key><string>20160322T230000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. UC Riverside - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. UC Riverside - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537374.20160322</string>
+<key>LOCATION</key><string>Riverside  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160322T190000Z</string>
+<key>DTEND</key><string>20160322T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. UC Riverside - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. UC Riverside - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533187.20160322</string>
+<key>LOCATION</key><string>Riverside  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160320T183000Z</string>
+<key>DTEND</key><string>20160320T203000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Weber State - 11:30 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Weber State - 11:30 AM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533086.20160320</string>
+<key>LOCATION</key><string>Santee  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160319T210000Z</string>
+<key>DTEND</key><string>20160319T230000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Illinois - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Illinois - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533004.20160319</string>
+<key>LOCATION</key><string>Santee  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160319T160000Z</string>
+<key>DTEND</key><string>20160319T180000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Colorado State - 9:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Colorado State - 9:00 AM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533003.20160319</string>
+<key>LOCATION</key><string>Santee  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160318T233000Z</string>
+<key>DTEND</key><string>20160319T013000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Harvard - 4:30 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Harvard - 4:30 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533085.20160318</string>
+<key>LOCATION</key><string>Santee  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160318T160000Z</string>
+<key>DTEND</key><string>20160318T180000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Princeton - 9:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Princeton - 9:00 AM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533002.20160318</string>
+<key>LOCATION</key><string>Santee  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160315T220000Z</string>
+<key>DTEND</key><string>20160316T000000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Colgate - 3:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Colgate - 3:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537375.20160315</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160313T210000Z</string>
+<key>DTEND</key><string>20160313T230000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Portland State vs. Towson - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Portland State vs. Towson - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537379.20160313</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160313T190000Z</string>
+<key>DTEND</key><string>20160313T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Portland State vs. Manhattan - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Portland State vs. Manhattan - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537380.20160313</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160313T170000Z</string>
+<key>DTEND</key><string>20160313T190000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Manhattan - 10:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Manhattan - 10:00 AM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533186.20160313</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160312T230000Z</string>
+<key>DTEND</key><string>20160313T010000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Portland State - 3:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Portland State - 3:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533084.20160312</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160312T210000Z</string>
+<key>DTEND</key><string>20160312T230000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Manhattan - 1:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Manhattan - 1:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537378.20160312</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160312T190000Z</string>
+<key>DTEND</key><string>20160312T210000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Towson vs. Portland St. - 11:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Towson vs. Portland St. - 11:00 AM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537139.20160312</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160312T170000Z</string>
+<key>DTEND</key><string>20160312T190000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Towson vs. Manhattan - 9:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Towson vs. Manhattan - 9:00 AM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537377.20160312</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160311T220000Z</string>
+<key>DTEND</key><string>20160312T000000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Towson - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Towson - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537376.20160311</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160311T200000Z</string>
+<key>DTEND</key><string>20160311T220000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Manhattan vs. Towson - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Manhattan vs. Towson - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6537138.20160311</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160311T180000Z</string>
+<key>DTEND</key><string>20160311T200000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Manhattan vs. Portland State - 10:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Manhattan vs. Portland State - 10:00 AM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533000.20160311</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160306T234500Z</string>
+<key>DTEND</key><string>20160307T014500Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. UNLV - 3:45 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. UNLV - 3:45 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533082.20160306</string>
+<key>LOCATION</key><string>Las Vegas  Nev.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160306T213000Z</string>
+<key>DTEND</key><string>20160306T233000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Southern Utah - 1:30 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Southern Utah - 1:30 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532999.20160306</string>
+<key>LOCATION</key><string>Las Vegas  Nev.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160305T213000Z</string>
+<key>DTEND</key><string>20160305T233000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Drake - 1:30 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Drake - 1:30 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533184.20160305</string>
+<key>LOCATION</key><string>Las Vegas  Nev.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160305T191500Z</string>
+<key>DTEND</key><string>20160305T211500Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. New Mexico State - 11:15 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. New Mexico State - 11:15 AM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532998.20160305</string>
+<key>LOCATION</key><string>Las Vegas  Nev.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160305T041500Z</string>
+<key>DTEND</key><string>20160305T061500Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Oregon - 8:15 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Oregon - 8:15 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533183.20160305</string>
+<key>LOCATION</key><string>Las Vegas  Nev.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160228T180000Z</string>
+<key>DTEND</key><string>20160228T200000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Sac. St. - 10:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Sac. St. - 10:00 AM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6566196.20160228</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160227T220000Z</string>
+<key>DTEND</key><string>20160228T000000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Seattle - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Seattle - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6566189.20160227</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160227T200000Z</string>
+<key>DTEND</key><string>20160227T220000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Seattle - 12:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Seattle - 12:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532996.20160227</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160227T180000Z</string>
+<key>DTEND</key><string>20160227T200000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Sacramento State - 10:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Sacramento State - 10:00 AM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6566187.20160227</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160226T230000Z</string>
+<key>DTEND</key><string>20160227T010000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Seattle - 3:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Seattle - 3:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6792391.20160226</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160221T220000Z</string>
+<key>DTEND</key><string>20160222T000000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Stanford - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Stanford - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532990.20160221</string>
+<key>LOCATION</key><string>Stanford  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160221T193000Z</string>
+<key>DTEND</key><string>20160221T213000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Long Beach State - 11:30 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Long Beach State - 11:30 AM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532989.20160221</string>
+<key>LOCATION</key><string>Stanford  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160220T230000Z</string>
+<key>DTEND</key><string>20160221T010000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. North Dakota State - 3:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. North Dakota State - 3:00 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532992.20160220</string>
+<key>LOCATION</key><string>Stanford  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160220T180000Z</string>
+<key>DTEND</key><string>20160220T200000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Stanford - 10:00 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Stanford - 10:00 AM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533080.20160220</string>
+<key>LOCATION</key><string>Stanford  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160219T223000Z</string>
+<key>DTEND</key><string>20160220T003000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. North Dakota State - 2:30 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. North Dakota State - 2:30 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6774089.20160219</string>
+<key>LOCATION</key><string>Stanford  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160217T230000Z</string>
+<key>DTEND</key><string>20160218T010000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. California - 3:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. California - 3:00 PM PT</string><key>LOCATIONTYPE</key><string>Home</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533180.20160217</string>
+<key>LOCATION</key><string>Moraga  Calif.</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160214T023000Z</string>
+<key>DTEND</key><string>20160214T043000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Kansas City - 6:30 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Kansas City - 6:30 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532981.20160214</string>
+<key>LOCATION</key><string>Honolulu  Hawai'i</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160213T193000Z</string>
+<key>DTEND</key><string>20160213T213000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Ole Miss - 11:30 AM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Ole Miss - 11:30 AM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6595690.20160213</string>
+<key>LOCATION</key><string>Honolulu  Hawai'i</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160213T003000Z</string>
+<key>DTEND</key><string>20160213T023000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Kansas City - 4:30 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Kansas City - 4:30 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532985.20160213</string>
+<key>LOCATION</key><string>Honolulu  Hawai'i</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160212T220000Z</string>
+<key>DTEND</key><string>20160213T000000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Ole Miss - 2:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Ole Miss - 2:00 PM PT</string><key>LOCATIONTYPE</key><string>Neutral</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6532983.20160212</string>
+<key>LOCATION</key><string>Honolulu  Hawai'i</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+
+<dict>
+<key>DTSTART</key><string>20160212T040000Z</string>
+<key>DTEND</key><string>20160212T060000Z</string>
+<key>DTSTAMP</key><string>20160303T073206Z</string>
+<key>SUMMARY</key><string>Saint Mary's College Softball vs. Hawai'i - 8:00 PM PT</string>
+<key>CATEGORIES</key><array><string>Athletics</string><string>Varsity Sports</string><string>Women</string></array>
+<key>DESCRIPTION</key><string>Saint Mary's College Softball vs. Hawai'i - 8:00 PM PT</string><key>LOCATIONTYPE</key><string>Away</string>
+<key>TZID</key><string>20160303T073206Z</string>
+<key>UID</key><string>CAL.6533179.20160212</string>
+<key>LOCATION</key><string>Honolulu  Hawai'i</string>
+<key>CONTACT</key><string>SMCGaels.com</string>
+</dict>
+
+</array>
+</plist>

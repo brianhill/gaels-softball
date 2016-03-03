@@ -1,0 +1,305 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D32D70191C8829AB008E91A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32D70181C8829AB008E91A7 /* AppDelegate.swift */; };
+		D32D701B1C8829AB008E91A7 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32D701A1C8829AB008E91A7 /* MasterViewController.swift */; };
+		D32D701D1C8829AB008E91A7 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32D701C1C8829AB008E91A7 /* DetailViewController.swift */; };
+		D32D70201C8829AB008E91A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32D701E1C8829AB008E91A7 /* Main.storyboard */; };
+		D32D70221C8829AB008E91A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D32D70211C8829AB008E91A7 /* Assets.xcassets */; };
+		D32D70251C8829AB008E91A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32D70231C8829AB008E91A7 /* LaunchScreen.storyboard */; };
+		D32D702D1C882A28008E91A7 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32D702C1C882A28008E91A7 /* Game.swift */; };
+		D32D702F1C883418008E91A7 /* SoftballGames.plist in Resources */ = {isa = PBXBuildFile; fileRef = D32D702E1C883418008E91A7 /* SoftballGames.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D32D70151C8829AB008E91A7 /* GaelsSoftball.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GaelsSoftball.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D32D70181C8829AB008E91A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D32D701A1C8829AB008E91A7 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		D32D701C1C8829AB008E91A7 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D32D701F1C8829AB008E91A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D32D70211C8829AB008E91A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D32D70241C8829AB008E91A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D32D70261C8829AC008E91A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D32D702C1C882A28008E91A7 /* Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		D32D702E1C883418008E91A7 /* SoftballGames.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SoftballGames.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D32D70121C8829AB008E91A7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D32D700C1C8829AB008E91A7 = {
+			isa = PBXGroup;
+			children = (
+				D32D70171C8829AB008E91A7 /* GaelsSoftball */,
+				D32D70161C8829AB008E91A7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D32D70161C8829AB008E91A7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D32D70151C8829AB008E91A7 /* GaelsSoftball.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D32D70171C8829AB008E91A7 /* GaelsSoftball */ = {
+			isa = PBXGroup;
+			children = (
+				D32D70181C8829AB008E91A7 /* AppDelegate.swift */,
+				D32D701A1C8829AB008E91A7 /* MasterViewController.swift */,
+				D32D701C1C8829AB008E91A7 /* DetailViewController.swift */,
+				D32D701E1C8829AB008E91A7 /* Main.storyboard */,
+				D32D70211C8829AB008E91A7 /* Assets.xcassets */,
+				D32D70231C8829AB008E91A7 /* LaunchScreen.storyboard */,
+				D32D70261C8829AC008E91A7 /* Info.plist */,
+				D32D702C1C882A28008E91A7 /* Game.swift */,
+				D32D702E1C883418008E91A7 /* SoftballGames.plist */,
+			);
+			path = GaelsSoftball;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D32D70141C8829AB008E91A7 /* GaelsSoftball */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D32D70291C8829AC008E91A7 /* Build configuration list for PBXNativeTarget "GaelsSoftball" */;
+			buildPhases = (
+				D32D70111C8829AB008E91A7 /* Sources */,
+				D32D70121C8829AB008E91A7 /* Frameworks */,
+				D32D70131C8829AB008E91A7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GaelsSoftball;
+			productName = GaelsSoftball;
+			productReference = D32D70151C8829AB008E91A7 /* GaelsSoftball.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D32D700D1C8829AB008E91A7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = 1157pm;
+				TargetAttributes = {
+					D32D70141C8829AB008E91A7 = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+				};
+			};
+			buildConfigurationList = D32D70101C8829AB008E91A7 /* Build configuration list for PBXProject "GaelsSoftball" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D32D700C1C8829AB008E91A7;
+			productRefGroup = D32D70161C8829AB008E91A7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D32D70141C8829AB008E91A7 /* GaelsSoftball */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D32D70131C8829AB008E91A7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D32D70251C8829AB008E91A7 /* LaunchScreen.storyboard in Resources */,
+				D32D702F1C883418008E91A7 /* SoftballGames.plist in Resources */,
+				D32D70221C8829AB008E91A7 /* Assets.xcassets in Resources */,
+				D32D70201C8829AB008E91A7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D32D70111C8829AB008E91A7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D32D701D1C8829AB008E91A7 /* DetailViewController.swift in Sources */,
+				D32D701B1C8829AB008E91A7 /* MasterViewController.swift in Sources */,
+				D32D70191C8829AB008E91A7 /* AppDelegate.swift in Sources */,
+				D32D702D1C882A28008E91A7 /* Game.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		D32D701E1C8829AB008E91A7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D32D701F1C8829AB008E91A7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D32D70231C8829AB008E91A7 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D32D70241C8829AB008E91A7 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D32D70271C8829AC008E91A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D32D70281C8829AC008E91A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D32D702A1C8829AC008E91A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = GaelsSoftball/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.1157pm.GaelsSoftball;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D32D702B1C8829AC008E91A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = GaelsSoftball/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.1157pm.GaelsSoftball;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D32D70101C8829AB008E91A7 /* Build configuration list for PBXProject "GaelsSoftball" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D32D70271C8829AC008E91A7 /* Debug */,
+				D32D70281C8829AC008E91A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D32D70291C8829AC008E91A7 /* Build configuration list for PBXNativeTarget "GaelsSoftball" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D32D702A1C8829AC008E91A7 /* Debug */,
+				D32D702B1C8829AC008E91A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D32D700D1C8829AB008E91A7 /* Project object */;
+}
