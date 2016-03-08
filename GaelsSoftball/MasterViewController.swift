@@ -14,9 +14,6 @@ class MasterViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-        self.navigationItem.leftBarButtonItem = self.editButtonItem()
-
 
         if let split = self.splitViewController {
             let controllers = split.viewControllers
@@ -48,7 +45,9 @@ class MasterViewController: UITableViewController {
         }
     }
 
-    // MARK: - Table View
+    // MARK: - Table View Data Source 
+    
+    // See https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableViewDataSource_Protocol/
 
     override func numberOfSectionsInTableView(tableView: UITableView) -> Int {
         return 1
@@ -61,25 +60,46 @@ class MasterViewController: UITableViewController {
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath)
 
-        let object = allGames[indexPath.row].start
-        cell.textLabel!.text = object.description
+        let game = allGames[indexPath.row]
+        
+        let locationType = game.locationType
+        
+        let textLabelText = "\(game.summary) at \(locationType.rawValue)"
+        cell.textLabel!.text = textLabelText
+        
+        // See https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableViewCell_Class
+        
+        switch locationType {
+        case LocationType.Home:
+            cell.accessoryType = UITableViewCellAccessoryType.DisclosureIndicator
+        default:
+
+            cell.accessoryType = UITableViewCellAccessoryType.None
+        }
+        
         return cell
     }
 
     override func tableView(tableView: UITableView, canEditRowAtIndexPath indexPath: NSIndexPath) -> Bool {
         // Return false if you do not want the specified item to be editable.
-        return true
+        return false
     }
-
-    override func tableView(tableView: UITableView, commitEditingStyle editingStyle: UITableViewCellEditingStyle, forRowAtIndexPath indexPath: NSIndexPath) {
-        if editingStyle == .Delete {
-            allGames.removeAtIndex(indexPath.row)
-            tableView.deleteRowsAtIndexPaths([indexPath], withRowAnimation: .Fade)
-        } else if editingStyle == .Insert {
-            // Create a new instance of the appropriate class, insert it into the array, and add a new row to the table view.
+    
+    // MARK: - Table View Delegate
+    
+    // See https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableViewDelegate_Protocol/
+    
+    override func tableView(tableView: UITableView, willSelectRowAtIndexPath indexPath: NSIndexPath) -> NSIndexPath? {
+        
+        let game = allGames[indexPath.row]
+        let locationType = game.locationType
+        switch locationType {
+        case LocationType.Home:
+            return indexPath
+        default:
+            return nil
         }
     }
-
 
 }
 
